@@ -17,6 +17,6 @@ A simpe game with JQuery | IQ Game
 
 ⭐ **If you like this project, feel free to leave a star!** ⭐
 
-*Built with ❤️ using HTML & CSS*
+*Built with ❤️ *
 
 </div>
